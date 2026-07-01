@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0092/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十支居士八城人經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0092.xml
+    old_id: T01n0092
+hash: sha256:f385e0ba02eca601e1138df91f7716a0feeea4665fd5d5b57f254f8d16df1605

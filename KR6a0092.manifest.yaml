@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6a0092/v1
+canonical_location: https://kanripo.org/bkk/KR6a0092/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 十支居士八城人經
+  identifiers:
+    alt_id:
+    - T01n0092
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0092.xml
+    old_id: T01n0092
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0092_000.yaml, hash: 'sha256:f385e0ba02eca601e1138df91f7716a0feeea4665fd5d5b57f254f8d16df1605'}
+  - {seq: 1, filename: KR6a0092_001.yaml, hash: 'sha256:c761780345dbc557970145a49d1ea3b20f46232c4235e437ab7c9b97085273c6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0092_001.markers.yaml, hash: 'sha256:588694b67d8cbed4eef19ab327833664ea70542d1a194c066cbacd50fabbdf2f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0092_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1197
+  label: 佛說十支居士八城人經
+  type: juan
+  level: 1
+hash: sha256:c51fc95c65d009ccaae4537a430a27e164246dc7749e4fc7e07b95ae264da665
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
