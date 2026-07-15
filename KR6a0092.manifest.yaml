@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0092/v1
 canonical_location: https://kanripo.org/bkk/KR6a0092/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 十支居士八城人經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0092_000.yaml, hash: 'sha256:f385e0ba02eca601e1138df91f7716a0feeea4665fd5d5b57f254f8d16df1605'}
-  - {seq: 1, filename: KR6a0092_001.yaml, hash: 'sha256:91abfc7128c0d07f26601f2d92ce16207edd894e3d1d1288a729238bd7e53f6a'}
+  - {seq: 1, filename: KR6a0092_001.yaml, hash: 'sha256:dead49ca2a6692da82cc8750a814092cac22fd8f968f2ba55b30e0375bd99de4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0092_000.markers.yaml, hash: 'sha256:23eecc09d444e3c0c803297437f071f0444e25224374c36e542b596ddc7215dc'}
-  - {seq: 1, role: markers, filename: assets/KR6a0092_001.markers.yaml, hash: 'sha256:e7e6a1adff78f83046053a6025c5e9eecd2279fca916aa02b98231d7609eb14c'}
+  - {seq: 1, role: markers, filename: assets/KR6a0092_001.markers.yaml, hash: 'sha256:de9fdb546a5a490d1a78710877004ee7fb4a6be2002c0500ffcd41bf4b338ad6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說十支居士八城人經
   type: juan
   level: 1
-hash: sha256:a67c325d08786e5c4c242b219403781b2cac19a1b96b73c2422d0d7948f40a28
+hash: sha256:4d0b4cf89a745212086fc0518453fa8fc880e2290d6f1f7e21b8b40e1413a3c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
