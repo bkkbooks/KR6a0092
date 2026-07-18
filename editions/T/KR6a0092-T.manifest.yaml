@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0092_000-T.yaml, hash: 'sha256:f385e0ba02eca601e1138df91f7716a0feeea4665fd5d5b57f254f8d16df1605'}
   - {seq: 1, filename: KR6a0092_001-T.yaml, hash: 'sha256:91abfc7128c0d07f26601f2d92ce16207edd894e3d1d1288a729238bd7e53f6a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0092_000-T.markers.yaml, hash: 'sha256:82f037f8a2035c70a90faaaf3e346462937d5038bb6f1f046750fb7468eb4808'}
+  - {seq: 0, role: markers, filename: assets/KR6a0092_000-T.markers.yaml, hash: 'sha256:aee255a509217a54408e59548b57e3c07d2bff960c860703c5cc9f21f8e16627'}
   - {seq: 1, role: markers, filename: assets/KR6a0092_001-T.markers.yaml, hash: 'sha256:e5d8d41ad55e730b3bc0095ed93d464b6aedc4a82a5a8ab76f65c8c36c4af738'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說十支居士八城人經
   type: juan
   level: 1
-hash: sha256:72b6cde5befd8919faf03c056d15a8eb4aae4dbd3a96ba30e8a9aac8b1710bb6
+hash: sha256:48e6e83f9720ce7826a2a462760f3ea53e44354057404d63c28fdb63081ff2ee
